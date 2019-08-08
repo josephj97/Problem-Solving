@@ -1,3 +1,5 @@
+# http://codeforces.com/problemset/problem/350/A
+
 x = input()
 a = input()
 b = input()
